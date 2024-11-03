@@ -1,0 +1,172 @@
+.nav-logo {
+    width: 130px;
+    height: 70px;
+    left: 100px;
+
+}
+
+.home-container {
+    background-image: url('./images/Rectangle 72.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1020px;
+    top: 34px;
+    width: 1704px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: white;
+
+}
+
+.nav-element {
+    font-size: 16px;
+}
+
+.div-box {
+    height: 120px;
+    width: 120px;
+    border: none;
+    background-color: #ECEEE9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+.service-title {
+    font-weight: bold;
+    font-size: 28px;
+    word-spacing: 2px;
+    line-height: 34px;
+}
+
+.service-div {
+    margin-bottom: 50px;
+}
+
+.service-para {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    line-height: 34px;
+}
+
+.service-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 30px;
+}
+
+.service-title-2 {
+    font-weight: bold;
+    font-size: 28px;
+    word-spacing: 2px;
+    line-height: 34px;
+}
+
+.service-para-2 {
+    margin-top: 10px;
+    line-height: 34px;
+}
+
+
+
+.service-container2 {
+    background-image: url('./images/flies-bg-image.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    padding: 50px 0;
+}
+
+.plus-icon {
+    margin-right: 15px;
+}
+
+.faq-para {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.review-container {
+    background-image: url('./images/Rectangle 83.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    padding: 50px 0;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.footer-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: auto;
+}
+
+
+.footer-container {
+    position: relative;
+    background-image: url(rectImage);
+    /* Replace with the actual image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    padding: 50px 0;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #678928;
+}
+
+.quote-para {
+    color: #606762;
+    font-size: 19px;
+    letter-spacing: 1px;
+}
+
+
+.footer-para {
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.foot-text {
+    color: #9ECCAB;
+    font-size: 18px;
+    word-spacing: 4px;
+}
+
+.details {
+    margin-top: 10px;
+}
+
+.get-quote-btn {
+    height: 50px;
+    width: 250px;
+    color: white;
+    border: 2px solid white;
+    background-color: #678928;
+}
+
+.contact-img {
+    color: white;
+}
+
+.social-media-img i {
+    color: white;
+    height: 35px;
+    width: 35px;
+}
